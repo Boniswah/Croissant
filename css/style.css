@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(248, 232, 166);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+footer{
+    text-align: center;
+    margin-top: 15px;
+}
+
+a{
+    color: green;
+    padding: 7px;
+}
