@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Multi-file Challenge"
+		},
+		{
+			"path": "../vanilla-weather-app1x"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vanilla-weather-app1x"
+	}
+}
